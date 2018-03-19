@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/Basek87/rfb-loyalty/tree/master.svg?style=svg)](https://circleci.com/gh/Basek87/rfb-loyalty/tree/master)
+
 # rfbloyalty
 This application was generated using JHipster 4.13.3, you can find documentation and help at [http://www.jhipster.tech/documentation-archive/v4.13.3](http://www.jhipster.tech/documentation-archive/v4.13.3).
 
